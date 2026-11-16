@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="418.80mm" height="221.60mm" viewBox="-65.00 0 2093.98 1108.00" role="img" aria-label="Three-view">
+<style>.cut{fill:none;stroke:#111111;stroke-width:0.45;}.fold{fill:none;stroke:#1565c0;stroke-width:0.35;stroke-dasharray:6 3;}.bevel{fill:none;stroke:#c62828;stroke-width:0.35;stroke-dasharray:8 2 1.5 2;}.mark{fill:none;stroke:#555555;stroke-width:0.2;stroke-dasharray:1.5 1.5;}.dim{fill:none;stroke:#555555;stroke-width:0.2;}text{font-family:Helvetica,Arial,sans-serif;fill:#111}</style>
+<path class="cut" d="M0.00 628.00 L758.20 628.00 L758.20 564.00 L0.00 564.00 Z"/>
+<path class="cut" d="M165.00 1096.00 L365.00 1096.00 L365.00 96.00 L165.00 96.00 Z"/>
+<path class="cut" d="M315.00 331.00 L365.00 331.00 L365.00 106.00 L315.00 106.00 Z"/>
+<path class="cut" d="M315.00 861.00 L365.00 861.00 L365.00 1086.00 L315.00 1086.00 Z"/>
+<path class="mark" d="M315.00 1096.00 L315.00 96.00"/>
+<path class="cut" d="M688.20 783.00 L795.20 783.00 L795.20 409.00 L688.20 409.00 Z"/>
+<path class="bevel" d="M758.20 783.00 L758.20 409.00"/>
+<path class="cut" d="M671.80 598.50 L804.70 598.50 L804.70 593.50 L671.80 593.50 Z"/>
+<path class="cut" d="M-53.00 710.30 L-53.00 481.70"/>
+<path class="cut" d="M-45.00 610.00 L-3.00 610.00 L-3.00 582.00 L-45.00 582.00 Z"/>
+<path class="fold" d="M219.00 656.00 L219.00 536.00"/>
+<path class="dim" d="M165.00 82.00 L365.00 82.00"/>
+<path class="dim" d="M165.00 96.00 L165.00 80.50"/>
+<path class="dim" d="M365.00 96.00 L365.00 80.50"/>
+<path class="dim" d="M842.20 1096.00 L842.20 96.00"/>
+<path class="dim" d="M828.20 1096.00 L840.70 1096.00"/>
+<path class="dim" d="M828.20 96.00 L840.70 96.00"/>
+<path class="dim" d="M688.20 797.00 L795.20 797.00"/>
+<path class="dim" d="M688.20 783.00 L688.20 795.50"/>
+<path class="dim" d="M795.20 783.00 L795.20 795.50"/>
+<path class="dim" d="M809.20 783.00 L809.20 409.00"/>
+<path class="dim" d="M795.20 783.00 L807.70 783.00"/>
+<path class="dim" d="M795.20 409.00 L807.70 409.00"/>
+<path class="cut" d="M1138.20 796.00 L1896.40 796.00 L1896.40 831.00 L1503.20 871.00 L1138.20 871.00 Z"/>
+<path class="cut" d="M1303.20 796.00 L1303.20 789.00 L1303.26 788.39 L1303.45 787.80 L1303.77 787.20 L1304.22 786.60 L1304.79 785.97 L1305.48 785.30 L1306.29 784.57 L1307.22 783.75 L1308.27 782.95 L1309.43 782.19 L1310.70 781.45 L1312.08 780.73 L1313.56 780.04 L1315.14 779.40 L1316.81 778.78 L1318.57 778.18 L1320.41 777.59 L1322.33 777.03 L1324.33 776.51 L1326.40 776.01 L1328.52 775.53 L1330.70 775.09 L1332.93 774.68 L1335.21 774.30 L1337.52 773.92 L1339.86 773.60 L1342.23 773.35 L1344.61 773.20 L1347.00 773.06 L1349.40 772.94 L1351.79 772.84 L1354.17 772.75 L1356.54 772.68 L1358.88 772.64 L1361.19 772.61 L1363.47 772.60 L1365.70 772.61 L1367.88 772.65 L1370.00 772.70 L1372.07 772.76 L1374.07 772.83 L1375.99 772.90 L1377.83 772.97 L1379.59 773.04 L1381.26 773.12 L1382.84 773.18 L1384.32 773.25 L1385.70 773.33 L1386.97 773.41 L1388.13 773.50 L1389.18 773.58 L1390.11 773.65 L1390.92 773.72 L1391.61 773.78 L1392.18 773.83 L1392.63 773.88 L1392.95 773.91 L1393.14 773.92 L1393.20 773.93 L1453.20 786.00 L1453.20 791.00 L1503.20 791.00 L1503.20 796.00 Z"/>
+<path class="cut" d="M1826.40 796.00 L1933.40 796.00 L1933.40 791.00 L1826.40 791.00 Z"/>
+<path class="cut" d="M1810.00 796.00 L1826.40 796.00 L1826.40 791.00 L1896.45 791.00 L1896.45 788.00 L1943.00 766.29 L1943.00 641.00 L1863.00 641.00 Z"/>
+<path class="bevel" d="M1896.45 788.00 L1915.00 641.00"/>
+<path class="cut" d="M1093.20 842.50 L1125.20 842.50 L1125.20 814.50 L1093.20 814.50 Z"/>
+<path class="cut" d="M1125.20 850.50 L1135.20 850.50 L1135.20 806.50 L1125.20 806.50 Z"/>
+<path class="cut" d="M1135.20 871.00 L1138.20 871.00 L1138.20 796.00 L1135.20 796.00 Z"/>
+<path class="cut" d="M1085.20 942.80 L1085.20 714.20"/>
+<path class="mark" d="M1058.20 828.50 L1916.40 828.50"/>
+<path class="cut" d="M1323.20 871.00 L1323.20 935.30"/>
+<path class="mark" d="M1045.20 962.80 L1443.20 962.80"/>
+<path class="cut" d="M1357.20 877.00 L1345.20 899.00 L1369.20 899.00 Z"/>
+<path class="dim" d="M1138.20 1005.00 L1896.40 1005.00"/>
+<path class="dim" d="M1138.20 991.00 L1138.20 1003.50"/>
+<path class="dim" d="M1896.40 991.00 L1896.40 1003.50"/>
+<path class="dim" d="M1138.20 722.00 L1303.20 722.00"/>
+<path class="dim" d="M1138.20 736.00 L1138.20 720.50"/>
+<path class="dim" d="M1303.20 736.00 L1303.20 720.50"/>
+<path class="dim" d="M1353.20 722.00 L1853.20 722.00"/>
+<path class="dim" d="M1353.20 736.00 L1353.20 720.50"/>
+<path class="dim" d="M1853.20 736.00 L1853.20 720.50"/>
+<path class="dim" d="M1977.40 791.00 L1977.40 641.00"/>
+<path class="dim" d="M1963.40 791.00 L1975.90 791.00"/>
+<path class="dim" d="M1963.40 641.00 L1975.90 641.00"/>
+<path class="cut" d="M1486.20 501.00 L1550.20 501.00 L1550.20 426.00 L1486.20 426.00 Z"/>
+<path class="cut" d="M1518.20 426.00 L2016.98 391.12 L2016.98 367.72 L1518.20 402.60 Z"/>
+<path class="cut" d="M1518.20 426.00 L1019.42 391.12 L1019.42 367.72 L1518.20 402.60 Z"/>
+<path class="mark" d="M1331.20 426.00 L1705.20 426.00 L1705.20 421.00 L1331.20 421.00 Z"/>
+<path class="mark" d="M1515.70 421.00 L1520.70 421.00 L1520.70 271.00 L1515.70 271.00 Z"/>
+<path class="cut" d="M1545.20 501.00 L1618.20 565.30"/>
+<path class="cut" d="M1622.20 592.80 L1634.20 592.80 L1634.20 537.80 L1622.20 537.80 Z"/>
+<path class="cut" d="M1491.20 501.00 L1418.20 565.30"/>
+<path class="cut" d="M1414.20 592.80 L1402.20 592.80 L1402.20 537.80 L1414.20 537.80 Z"/>
+<path class="dim" d="M1418.20 606.80 L1618.20 606.80"/>
+<path class="dim" d="M1418.20 592.80 L1418.20 605.30"/>
+<path class="dim" d="M1618.20 592.80 L1618.20 605.30"/>
+<circle class="cut" cx="1323.20" cy="935.30" r="27.50"/>
+<circle class="mark" cx="1518.20" cy="458.50" r="114.30"/>
+<circle class="cut" cx="1518.20" cy="458.50" r="14.00"/>
+<text x="225.00" y="530.00" font-size="20.0" text-anchor="start">CG</text>
+<text x="265.00" y="80.80" font-size="20.0" text-anchor="middle">chord 200</text>
+<text x="841.00" y="596.00" font-size="20.0" text-anchor="middle" transform="rotate(-90.0 841.00 596.00)">span 1000</text>
+<text x="741.70" y="795.80" font-size="20.0" text-anchor="middle">107</text>
+<text x="808.00" y="596.00" font-size="20.0" text-anchor="middle" transform="rotate(-90.0 808.00 596.00)">374</text>
+<text x="385.00" y="156.00" font-size="20.0" text-anchor="start">aileron 50 x 225</text>
+<text x="1449.20" y="966.80" font-size="16.0" text-anchor="start">ground</text>
+<text x="1375.20" y="901.00" font-size="20.0" text-anchor="start">CG 27% chord</text>
+<text x="1517.30" y="1003.80" font-size="20.0" text-anchor="middle">fuselage 758</text>
+<text x="1220.70" y="720.80" font-size="20.0" text-anchor="middle">nose 165</text>
+<text x="1603.20" y="720.80" font-size="20.0" text-anchor="middle">tail arm 500</text>
+<text x="1976.20" y="716.00" font-size="20.0" text-anchor="middle" transform="rotate(-90.0 1976.20 716.00)">150</text>
+<text x="1518.20" y="605.60" font-size="20.0" text-anchor="middle">track 200</text>
+<text x="1768.20" y="355.12" font-size="20.0" text-anchor="middle">dihedral 4 deg each side</text>
+<text x="379.10" y="36.00" font-size="24.0" text-anchor="middle">TOP</text>
+<text x="1517.30" y="1056.00" font-size="24.0" text-anchor="middle">SIDE</text>
+<text x="1518.20" y="36.00" font-size="24.0" text-anchor="middle">FRONT</text>
+</svg>

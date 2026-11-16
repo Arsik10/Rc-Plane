@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="395.30mm" height="322.70mm" viewBox="-6.00 0 395.30 322.70" role="img" aria-label="Tail - stabilizer + elevator, fin + rudder">
+<style>.cut{fill:none;stroke:#111111;stroke-width:0.45;}.fold{fill:none;stroke:#1565c0;stroke-width:0.35;stroke-dasharray:6 3;}.bevel{fill:none;stroke:#c62828;stroke-width:0.35;stroke-dasharray:8 2 1.5 2;}.mark{fill:none;stroke:#555555;stroke-width:0.2;stroke-dasharray:1.5 1.5;}.dim{fill:none;stroke:#555555;stroke-width:0.2;}text{font-family:Helvetica,Arial,sans-serif;fill:#111}</style>
+<path class="cut" d="M0.00 124.70 L374.00 124.70 L374.00 17.70 L0.00 17.70 Z"/>
+<path class="bevel" d="M0.00 87.70 L374.00 87.70"/>
+<path class="mark" d="M187.00 87.70 L187.00 17.70"/>
+<path class="mark" d="M151.00 101.70 L163.00 101.70 L163.00 89.70 L151.00 89.70 Z"/>
+<path class="dim" d="M0.00 10.70 L374.00 10.70"/>
+<path class="dim" d="M0.00 17.70 L0.00 9.20"/>
+<path class="dim" d="M374.00 17.70 L374.00 9.20"/>
+<path class="dim" d="M381.00 124.70 L381.00 87.70"/>
+<path class="dim" d="M374.00 124.70 L379.50 124.70"/>
+<path class="dim" d="M374.00 87.70 L379.50 87.70"/>
+<path class="dim" d="M381.00 87.70 L381.00 17.70"/>
+<path class="dim" d="M374.00 87.70 L379.50 87.70"/>
+<path class="dim" d="M374.00 17.70 L379.50 17.70"/>
+<path class="cut" d="M20.00 309.70 L36.40 309.70 L36.40 304.70 L106.45 304.70 L106.45 301.70 L153.00 279.99 L153.00 154.70 L73.00 154.70 Z"/>
+<path class="bevel" d="M106.45 301.70 L125.00 154.70"/>
+<path class="mark" d="M109.45 282.70 L121.45 282.70 L121.45 270.70 L109.45 270.70 Z"/>
+<path class="dim" d="M163.00 304.70 L163.00 154.70"/>
+<path class="dim" d="M153.00 304.70 L161.50 304.70"/>
+<path class="dim" d="M153.00 154.70 L161.50 154.70"/>
+<path class="dim" d="M73.00 147.70 L153.00 147.70"/>
+<path class="dim" d="M73.00 154.70 L73.00 146.20"/>
+<path class="dim" d="M153.00 154.70 L153.00 146.20"/>
+<path class="dim" d="M20.00 316.70 L153.00 316.70"/>
+<path class="dim" d="M20.00 310.70 L20.00 315.20"/>
+<path class="dim" d="M153.00 310.70 L153.00 315.20"/>
+<text x="190.00" y="25.70" font-size="3.2" text-anchor="start">centre line: fin stands here</text>
+<text x="93.50" y="54.70" font-size="5.0" text-anchor="middle">STABILIZER</text>
+<text x="93.50" y="108.20" font-size="4.5" text-anchor="middle">ELEVATOR (throw +/-8 mm)</text>
+<text x="147.00" y="97.70" font-size="3.0" text-anchor="end">horn, underside</text>
+<text x="4.00" y="23.70" font-size="3.5" text-anchor="start">LE</text>
+<text x="187.00" y="9.50" font-size="3.5" text-anchor="middle">374</text>
+<text x="379.80" y="106.20" font-size="3.5" text-anchor="middle" transform="rotate(-90.0 379.80 106.20)">37</text>
+<text x="379.80" y="52.70" font-size="3.5" text-anchor="middle" transform="rotate(-90.0 379.80 52.70)">70</text>
+<text x="75.86" y="259.70" font-size="5.0" text-anchor="middle">FIN</text>
+<text x="149.00" y="222.20" font-size="4.0" text-anchor="end" transform="rotate(-90.0 149.00 222.20)">RUDDER</text>
+<text x="179.00" y="278.70" font-size="3.0" text-anchor="start">horn, right side</text>
+<text x="179.00" y="292.70" font-size="3.0" text-anchor="start">rudder throw +/-15 mm</text>
+<text x="161.80" y="229.70" font-size="3.5" text-anchor="middle" transform="rotate(-90.0 161.80 229.70)">150</text>
+<text x="113.00" y="146.50" font-size="3.5" text-anchor="middle">80</text>
+<text x="86.50" y="315.50" font-size="3.5" text-anchor="middle">133</text>
+</svg>

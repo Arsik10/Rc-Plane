@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="793.60mm" height="232.00mm" viewBox="-17.70 0 793.60 232.00" role="img" aria-label="Fuselage shell - sides + top, one piece">
+<style>.cut{fill:none;stroke:#111111;stroke-width:0.45;}.fold{fill:none;stroke:#1565c0;stroke-width:0.35;stroke-dasharray:6 3;}.bevel{fill:none;stroke:#c62828;stroke-width:0.35;stroke-dasharray:8 2 1.5 2;}.mark{fill:none;stroke:#555555;stroke-width:0.2;stroke-dasharray:1.5 1.5;}.dim{fill:none;stroke:#555555;stroke-width:0.2;}text{font-family:Helvetica,Arial,sans-serif;fill:#111}</style>
+<path class="cut" d="M0.00 71.00 L0.00 6.00 L365.00 6.00 L758.20 46.00 L758.20 170.00 L365.00 210.00 L0.00 210.00 L0.00 145.00 L155.00 145.00 L155.00 71.00 Z"/>
+<path class="fold" d="M155.00 76.00 L758.20 76.00"/>
+<path class="fold" d="M155.00 71.00 L758.20 71.00"/>
+<path class="cut" d="M618.20 64.00 L653.20 64.00 L653.20 60.00 L618.20 60.00 Z"/>
+<path class="mark" d="M365.00 71.00 L365.00 6.00"/>
+<path class="mark" d="M561.60 71.00 L561.60 26.00"/>
+<path class="mark" d="M219.00 69.00 L219.00 49.00"/>
+<path class="mark" d="M20.00 21.00 L205.00 21.00"/>
+<path class="fold" d="M155.00 140.00 L758.20 140.00"/>
+<path class="fold" d="M155.00 145.00 L758.20 145.00"/>
+<path class="cut" d="M618.20 156.00 L653.20 156.00 L653.20 152.00 L618.20 152.00 Z"/>
+<path class="mark" d="M365.00 145.00 L365.00 210.00"/>
+<path class="mark" d="M561.60 145.00 L561.60 190.00"/>
+<path class="mark" d="M219.00 147.00 L219.00 167.00"/>
+<path class="mark" d="M20.00 195.00 L205.00 195.00"/>
+<path class="cut" d="M185.00 130.00 L345.00 130.00 L345.00 86.00 L185.00 86.00 Z"/>
+<path class="mark" d="M165.00 140.00 L165.00 76.00"/>
+<path class="mark" d="M365.00 140.00 L365.00 76.00"/>
+<path class="mark" d="M688.20 140.00 L688.20 76.00"/>
+<path class="dim" d="M0.00 217.00 L365.00 217.00"/>
+<path class="dim" d="M0.00 210.00 L0.00 215.50"/>
+<path class="dim" d="M365.00 210.00 L365.00 215.50"/>
+<path class="dim" d="M0.00 226.00 L758.20 226.00"/>
+<path class="dim" d="M0.00 219.00 L0.00 224.50"/>
+<path class="dim" d="M758.20 219.00 L758.20 224.50"/>
+<path class="dim" d="M-7.00 71.00 L-7.00 6.00"/>
+<path class="dim" d="M0.00 71.00 L-8.50 71.00"/>
+<path class="dim" d="M0.00 6.00 L-8.50 6.00"/>
+<path class="dim" d="M765.20 46.00 L765.20 71.00"/>
+<path class="dim" d="M758.20 46.00 L766.70 46.00"/>
+<path class="dim" d="M758.20 71.00 L766.70 71.00"/>
+<path class="dim" d="M148.00 140.00 L148.00 76.00"/>
+<path class="dim" d="M155.00 140.00 L146.50 140.00"/>
+<path class="dim" d="M155.00 76.00 L146.50 76.00"/>
+<circle class="cut" cx="150.00" cy="61.00" r="3.00"/>
+<circle class="cut" cx="380.00" cy="61.00" r="3.00"/>
+<circle class="cut" cx="150.00" cy="155.00" r="3.00"/>
+<circle class="cut" cx="380.00" cy="155.00" r="3.00"/>
+<text x="698.20" y="74.80" font-size="2.6" text-anchor="end">B-fold: remove the foam between the two lines</text>
+<text x="221.00" y="57.00" font-size="4.0" text-anchor="start">CG</text>
+<text x="182.50" y="30.50" font-size="6.0" text-anchor="middle">SIDE</text>
+<text x="30.00" y="25.00" font-size="2.8" text-anchor="start">battery shelf rail (top edge)</text>
+<text x="698.20" y="143.70" font-size="2.6" text-anchor="end">B-fold: remove the foam between the two lines</text>
+<text x="221.00" y="159.00" font-size="4.0" text-anchor="start">CG</text>
+<text x="182.50" y="185.50" font-size="6.0" text-anchor="middle">SIDE</text>
+<text x="30.00" y="194.00" font-size="2.8" text-anchor="start">battery shelf rail (top edge)</text>
+<text x="615.20" y="63.50" font-size="3.0" text-anchor="end">pushrod exit slots</text>
+<text x="155.00" y="62.00" font-size="3.0" text-anchor="start">wing band dowel</text>
+<text x="265.00" y="110.00" font-size="4.5" text-anchor="middle">WING BAY - cut out</text>
+<text x="167.00" y="82.00" font-size="3.0" text-anchor="start">wing LE</text>
+<text x="367.00" y="82.00" font-size="3.0" text-anchor="start">wing TE</text>
+<text x="690.20" y="82.00" font-size="3.0" text-anchor="start">stabilizer LE</text>
+<text x="526.60" y="110.00" font-size="6.0" text-anchor="middle">TOP</text>
+<text x="77.50" y="108.00" font-size="4.0" text-anchor="middle">hatch goes here</text>
+<text x="4.00" y="14.00" font-size="4.0" text-anchor="start">NOSE (firewall)</text>
+<text x="754.20" y="53.00" font-size="4.0" text-anchor="end">TAIL</text>
+<text x="182.50" y="215.80" font-size="3.5" text-anchor="middle">365</text>
+<text x="379.10" y="224.80" font-size="3.5" text-anchor="middle">758</text>
+<text x="-8.20" y="38.50" font-size="3.5" text-anchor="middle" transform="rotate(-90.0 -8.20 38.50)">65</text>
+<text x="766.40" y="58.50" font-size="3.5" text-anchor="middle" transform="rotate(-90.0 766.40 58.50)">25</text>
+<text x="146.80" y="108.00" font-size="3.5" text-anchor="middle" transform="rotate(-90.0 146.80 108.00)">64</text>
+</svg>

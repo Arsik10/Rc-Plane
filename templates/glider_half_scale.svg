@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="521.30mm" height="353.70mm" viewBox="-6.00 0 521.30 353.70" role="img" aria-label="Test glider at 0.5 scale (5 mm foam, no motor)">
+<style>.cut{fill:none;stroke:#111111;stroke-width:0.45;}.fold{fill:none;stroke:#1565c0;stroke-width:0.35;stroke-dasharray:6 3;}.bevel{fill:none;stroke:#c62828;stroke-width:0.35;stroke-dasharray:8 2 1.5 2;}.mark{fill:none;stroke:#555555;stroke-width:0.2;stroke-dasharray:1.5 1.5;}.dim{fill:none;stroke:#555555;stroke-width:0.2;}text{font-family:Helvetica,Arial,sans-serif;fill:#111}</style>
+<path class="cut" d="M0.00 117.70 L500.00 117.70 L500.00 17.70 L0.00 17.70 Z"/>
+<path class="fold" d="M250.00 117.70 L250.00 17.70"/>
+<path class="mark" d="M225.00 42.70 L275.00 42.70"/>
+<path class="dim" d="M0.00 10.70 L500.00 10.70"/>
+<path class="dim" d="M0.00 17.70 L0.00 9.20"/>
+<path class="dim" d="M500.00 17.70 L500.00 9.20"/>
+<path class="dim" d="M507.00 117.70 L507.00 17.70"/>
+<path class="dim" d="M500.00 117.70 L505.50 117.70"/>
+<path class="dim" d="M500.00 17.70 L505.50 17.70"/>
+<path class="cut" d="M0.00 185.20 L379.10 185.20 L379.10 202.70 L182.50 222.70 L0.00 222.70 Z"/>
+<path class="mark" d="M82.50 185.20 L82.50 193.20"/>
+<path class="mark" d="M182.50 185.20 L182.50 193.20"/>
+<path class="mark" d="M344.10 185.20 L344.10 193.20"/>
+<path class="dim" d="M0.00 229.70 L182.50 229.70"/>
+<path class="dim" d="M0.00 222.70 L0.00 228.20"/>
+<path class="dim" d="M182.50 222.70 L182.50 228.20"/>
+<path class="dim" d="M0.00 238.70 L379.10 238.70"/>
+<path class="dim" d="M0.00 231.70 L0.00 237.20"/>
+<path class="dim" d="M379.10 231.70 L379.10 237.20"/>
+<path class="cut" d="M0.00 326.20 L187.00 326.20 L187.00 272.70 L0.00 272.70 Z"/>
+<path class="mark" d="M93.50 326.20 L93.50 272.70"/>
+<path class="dim" d="M0.00 333.20 L187.00 333.20"/>
+<path class="dim" d="M0.00 326.20 L0.00 331.70"/>
+<path class="dim" d="M187.00 326.20 L187.00 331.70"/>
+<path class="cut" d="M227.00 347.70 L293.50 347.70 L293.50 272.70 L253.50 272.70 Z"/>
+<path class="dim" d="M300.50 347.70 L300.50 272.70"/>
+<path class="dim" d="M293.50 347.70 L299.00 347.70"/>
+<path class="dim" d="M293.50 272.70 L299.00 272.70"/>
+<text x="278.00" y="43.90" font-size="3.2" text-anchor="start">balance here (25% chord)</text>
+<text x="125.00" y="69.70" font-size="5.0" text-anchor="middle">WING</text>
+<text x="253.00" y="113.70" font-size="3.2" text-anchor="start">crease: raise each tip 18 mm</text>
+<text x="4.00" y="23.70" font-size="3.5" text-anchor="start">LE</text>
+<text x="250.00" y="9.50" font-size="3.5" text-anchor="middle">500</text>
+<text x="505.80" y="67.70" font-size="3.5" text-anchor="middle" transform="rotate(-90.0 505.80 67.70)">100</text>
+<text x="84.00" y="192.20" font-size="2.8" text-anchor="start">wing LE</text>
+<text x="184.00" y="192.20" font-size="2.8" text-anchor="start">wing TE</text>
+<text x="345.60" y="192.20" font-size="2.8" text-anchor="start">stab LE</text>
+<text x="91.25" y="205.95" font-size="3.5" text-anchor="middle">FUSELAGE (side view) - wing and tail glue onto this top edge</text>
+<text x="3.00" y="219.70" font-size="3.0" text-anchor="start">NOSE: tape on coins or clay until it balances</text>
+<text x="91.25" y="228.50" font-size="3.5" text-anchor="middle">182</text>
+<text x="189.55" y="237.50" font-size="3.5" text-anchor="middle">379</text>
+<text x="46.75" y="301.45" font-size="4.0" text-anchor="middle">STABILIZER</text>
+<text x="93.50" y="332.00" font-size="3.5" text-anchor="middle">187</text>
+<text x="266.90" y="317.70" font-size="4.0" text-anchor="middle">FIN</text>
+<text x="299.30" y="310.20" font-size="3.5" text-anchor="middle" transform="rotate(-90.0 299.30 310.20)">75</text>
+</svg>

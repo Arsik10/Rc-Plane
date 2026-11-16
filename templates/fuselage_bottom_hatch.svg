@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="781.60mm" height="188.70mm" viewBox="-6.00 0 781.60 188.70" role="img" aria-label="Fuselage bottom + battery hatch">
+<style>.cut{fill:none;stroke:#111111;stroke-width:0.45;}.fold{fill:none;stroke:#1565c0;stroke-width:0.35;stroke-dasharray:6 3;}.bevel{fill:none;stroke:#c62828;stroke-width:0.35;stroke-dasharray:8 2 1.5 2;}.mark{fill:none;stroke:#555555;stroke-width:0.2;stroke-dasharray:1.5 1.5;}.dim{fill:none;stroke:#555555;stroke-width:0.2;}text{font-family:Helvetica,Arial,sans-serif;fill:#111}</style>
+<path class="cut" d="M0.00 175.70 L760.30 175.70 L760.30 111.70 L0.00 111.70 Z"/>
+<path class="fold" d="M365.00 175.70 L365.00 111.70"/>
+<path class="mark" d="M174.00 170.40 L196.00 170.40 L196.00 117.00 L174.00 117.00 Z"/>
+<path class="dim" d="M0.00 182.70 L760.30 182.70"/>
+<path class="dim" d="M0.00 175.70 L0.00 181.20"/>
+<path class="dim" d="M760.30 175.70 L760.30 181.20"/>
+<path class="dim" d="M767.30 175.70 L767.30 111.70"/>
+<path class="dim" d="M760.30 175.70 L765.80 175.70"/>
+<path class="dim" d="M760.30 111.70 L765.80 111.70"/>
+<path class="cut" d="M0.00 81.70 L154.00 81.70 L154.00 17.70 L0.00 17.70 Z"/>
+<path class="dim" d="M0.00 10.70 L154.00 10.70"/>
+<path class="dim" d="M0.00 17.70 L0.00 9.20"/>
+<path class="dim" d="M154.00 17.70 L154.00 9.20"/>
+<text x="368.00" y="143.70" font-size="3.2" text-anchor="start">crease: tail taper starts</text>
+<text x="182.50" y="135.70" font-size="5.0" text-anchor="middle">BOTTOM (outside face)</text>
+<text x="4.00" y="170.70" font-size="4.0" text-anchor="start">NOSE</text>
+<text x="185.00" y="145.20" font-size="3.0" text-anchor="middle">gear block</text>
+<text x="380.15" y="181.50" font-size="3.5" text-anchor="middle">760</text>
+<text x="766.10" y="143.70" font-size="3.5" text-anchor="middle" transform="rotate(-90.0 766.10 143.70)">64</text>
+<text x="77.00" y="51.70" font-size="5.0" text-anchor="middle">BATTERY HATCH</text>
+<text x="77.00" y="9.50" font-size="3.5" text-anchor="middle">154</text>
+</svg>

@@ -1,0 +1,363 @@
+{
+ "wing": {
+  "span": 1000.0,
+  "chord": 200.0,
+  "half_span": 500.0,
+  "area_dm2": 20.0,
+  "aspect_ratio": 5.0,
+  "dihedral_deg": 4.0,
+  "tip_rise": 34.9,
+  "foam_t": 5.0,
+  "hinge_frac": 0.75,
+  "hinge_x": 150.0,
+  "flat_from": 0.45,
+  "thickness_max": 23.4,
+  "skin_bottom": 200.0,
+  "skin_top": 162.9,
+  "skin_total": 362.9,
+  "skin_creases": [
+   11.8,
+   31.3,
+   51.7,
+   75.7,
+   101.7
+  ],
+  "aileron": {
+   "chord": 50.0,
+   "y0": 265.0,
+   "y1": 490.0,
+   "length": 225.0
+  },
+  "spar": {
+   "x": 56.0,
+   "z": 11.68,
+   "d": 6.0,
+   "free_height": 13.4,
+   "length_each": 495.0
+  },
+  "rib_y": [
+   2.5,
+   126.2,
+   250.0,
+   373.8,
+   497.5
+  ],
+  "joiner_side": 10.0,
+  "joiner_arm": 50.0,
+  "servo": {
+   "x": 80.0,
+   "y": 311.9,
+   "pocket": [
+    38.0,
+    34.0
+   ],
+   "plate": [
+    48.0,
+    42.0,
+    1.6
+   ],
+   "shaft_offset": 5.5,
+   "ceiling": 15.7
+  }
+ },
+ "tail": {
+  "arm": 500.0,
+  "h": {
+   "span": 374,
+   "chord": 107,
+   "area_dm2": 4.0,
+   "volume_coeff": 0.5,
+   "elevator_chord": 37,
+   "fixed_chord": 70,
+   "aspect_ratio": 3.5,
+   "area_ratio": 0.2
+  },
+  "v": {
+   "height": 150,
+   "root_chord": 133,
+   "tip_chord": 80,
+   "area_dm2": 1.6,
+   "volume_coeff": 0.0399,
+   "rudder_frac": 0.35,
+   "rudder_root_chord": 46.5,
+   "rudder_tip_chord": 28.0
+  }
+ },
+ "fuselage": {
+  "width": 64.0,
+  "height": 75.0,
+  "tail_height": 35.0,
+  "length": 758.2,
+  "nose_length": 165,
+  "length_over_span": 0.758,
+  "taper_start": 365.0,
+  "bottom_length": 760.3,
+  "hatch_end": 155.0,
+  "bay_open": [
+   185.0,
+   345.0
+  ],
+  "bay_width": 44.0,
+  "band_dowels_x": [
+   150.0,
+   380.0
+  ],
+  "band_dowel_z": -15.0,
+  "band_dowel_d": 6.0,
+  "formers_x": [
+   365.0,
+   561.6
+  ],
+  "shelf_length": 185.0,
+  "shelf_height": 15.0,
+  "pushrod_exit_x": [
+   618.2,
+   653.2
+  ],
+  "thrust_z": -32.5,
+  "servo_tray_x": 275.0
+ },
+ "stations": {
+  "firewall": 0.0,
+  "wing_le": 165.0,
+  "wing_c4": 215.0,
+  "cg": 219.0,
+  "cg_first_flight": 215.0,
+  "wing_te": 365.0,
+  "tail_le": 688.2,
+  "tail_hinge": 758.2,
+  "fin_le": 671.8,
+  "elevator_te": 795.2,
+  "prop": -53.0
+ },
+ "mass": {
+  "items": [
+   {
+    "name": "Motor (2212)",
+    "mass_g": 58.0,
+    "x": -30.0
+   },
+   {
+    "name": "Propeller + adapter",
+    "mass_g": 9.0,
+    "x": -53.0
+   },
+   {
+    "name": "Printed firewall + motor mount + screws",
+    "mass_g": 30.0,
+    "x": -4.0
+   },
+   {
+    "name": "ESC",
+    "mass_g": 28.0,
+    "x": 55.0
+   },
+   {
+    "name": "Battery 3S 1500 mAh",
+    "mass_g": 135,
+    "x": 116.0
+   },
+   {
+    "name": "Receiver",
+    "mass_g": 10.0,
+    "x": 315.0
+   },
+   {
+    "name": "Elevator + rudder servos",
+    "mass_g": 22.0,
+    "x": 275.0
+   },
+   {
+    "name": "Aileron servos",
+    "mass_g": 22.0,
+    "x": 245.0
+   },
+   {
+    "name": "Wing foam",
+    "mass_g": 188.0,
+    "x": 251.7
+   },
+   {
+    "name": "Wing spar",
+    "mass_g": 20.0,
+    "x": 221.0
+   },
+   {
+    "name": "Printed wing joiner",
+    "mass_g": 10.0,
+    "x": 221.0
+   },
+   {
+    "name": "Fuselage foam",
+    "mass_g": 97.2,
+    "x": 343.9
+   },
+   {
+    "name": "Stabilizer + elevator foam",
+    "mass_g": 20.0,
+    "x": 741.8
+   },
+   {
+    "name": "Fin + rudder foam",
+    "mass_g": 8.0,
+    "x": 744.9
+   },
+   {
+    "name": "Pushrods",
+    "mass_g": 15.0,
+    "x": 516.6
+   },
+   {
+    "name": "Small printed parts",
+    "mass_g": 16.0,
+    "x": 285.0
+   },
+   {
+    "name": "Glue, tape, velcro, bands",
+    "mass_g": 50.0,
+    "x": 265.0
+   },
+   {
+    "name": "Landing gear",
+    "mass_g": 45.0,
+    "x": 185.0
+   }
+  ],
+  "total_g": 783.2,
+  "target_g": [
+   700,
+   900
+  ],
+  "foam_areal_density": 500.0,
+  "foam_area_m2": 0.626,
+  "battery_x": 116.0,
+  "battery_bay": [
+   57.5,
+   167.5
+  ],
+  "battery_length": 75.0,
+  "cg_range_frac": [
+   0.22,
+   0.314
+  ]
+ },
+ "performance": {
+  "air_density": 1.122,
+  "wing_loading_g_dm2": 39.2,
+  "stall_speed_ms": 7.89,
+  "stall_speed_sea_level_ms": 7.55,
+  "cruise_speed_ms": 12.6,
+  "reynolds_at_1p3_stall": 124000,
+  "power_w": 144.3,
+  "power_loading_w_kg": 184.2,
+  "thrust_to_weight": 0.87,
+  "pitch_speed_ms": 16.6,
+  "pitch_speed_over_stall": 2.1,
+  "flight_time_min": 11.1,
+  "prop": "9x4.7",
+  "prop_radius": 114.3
+ },
+ "stability": {
+  "cg_frac": 0.27,
+  "cg_first_flight_frac": 0.25,
+  "wing_lift_slope": 4.254,
+  "tail_lift_slope": 3.644,
+  "downwash_gradient": 0.542,
+  "tail_efficiency": 0.9,
+  "tail_contribution": 0.1768,
+  "fuselage_shift": 0.0106,
+  "neutral_point_frac": 0.4161,
+  "neutral_point_x": 248.2,
+  "static_margin": 0.1461,
+  "static_margin_first_flight": 0.1661
+ },
+ "gear": {
+  "x": 185.0,
+  "axle_drop": 64.3,
+  "track": 200.0,
+  "leg_length": 97.3,
+  "axle_stub": 25.0,
+  "top_length": 54.0,
+  "wire_length": 298.6,
+  "wire_d": 3.0,
+  "wheel_d": 55.0
+ },
+ "printed": {
+  "firewall": {
+   "width": 64.0,
+   "height": 75.0,
+   "plate": 3.0,
+   "lip_depth": 12.0,
+   "lip_wall": 1.6,
+   "inner_w": 54.0,
+   "inner_h": 65.0,
+   "bolt_square": 34.0,
+   "motor_axis_up": 5.0
+  },
+  "motor_mount": {
+   "size": 44.0,
+   "thickness": 10.0,
+   "bolt_square": 34.0,
+   "motor_holes": [
+    16.0,
+    19.0
+   ],
+   "right_deg": 2.5,
+   "down_deg": 1.5
+  },
+  "joiner": {
+   "side": 10.0,
+   "arm": 50.0,
+   "bore": 6.3,
+   "dihedral_deg": 4.0
+  },
+  "servo": {
+   "body": [
+    22.8,
+    12.2,
+    22.7
+   ],
+   "tab_span": 32.5,
+   "hole_spacing": 27.6,
+   "tab_height": 15.9
+  },
+  "servo_tray": {
+   "width": 53.4,
+   "length": 44.0,
+   "thickness": 2.4
+  },
+  "gear_block": {
+   "length": 53.4,
+   "width": 22.0,
+   "height": 9.0
+  },
+  "m3_clearance": 3.4,
+  "m3_head": 6.2,
+  "bed": [
+   220.0,
+   220.0,
+   250.0
+  ],
+  "min_wall": 1.2
+ },
+ "throws": {
+  "aileron_mm": 10,
+  "elevator_mm": 8,
+  "rudder_mm": 15
+ },
+ "warnings": [],
+ "site": {
+  "elevation_m": 450,
+  "temp_c": 25
+ },
+ "power": {
+  "kv": 1000,
+  "cells": 3,
+  "mah": 1500,
+  "thrust_g": 680,
+  "current_a": 13.0,
+  "esc_a": 30,
+  "motor_d": 28.0,
+  "motor_l": 30.0
+ }
+}
